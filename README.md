@@ -12,6 +12,15 @@ Plataforma escolar de ensino a distância.
 
 ## :iphone: Print no Celular
 :heavy_check_mark: Responsividade
+### - Home
 
-![]()
+<img src="https://github.com/pedrorivald/escola-ead/blob/master/Screenshot_home.png" height="500" width="300">
+
+### - Área Exatas
+
+<img src="https://github.com/pedrorivald/escola-ead/blob/master/Screenshot_ex.png" height="500" width="300">
+
+### - Menu Lateral
+
+<img src="https://github.com/pedrorivald/escola-ead/blob/master/Screenshot_menu.png" height="500" width="300">
 
